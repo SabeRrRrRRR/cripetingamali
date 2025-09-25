@@ -1,6 +1,6 @@
 // Simple frontend that talks to the backend and shows token->USD conversions.
 // Replace BACKEND with your deployed backend URL or use http://localhost:3000 for local testing.
-const BACKEND = window.BACKEND_URL || 'http://cripetingamali.render.com';
+const BACKEND = window.BACKEND_URL || 'http://cripetingamali.onrender.com';
 
 let currentRate = null; // USD per token
 async function loadRate() {
