@@ -1,5 +1,0 @@
-body { font-family: system-ui, Arial; padding: 2rem; background: #f6f8fb; color:#111 }
-input { margin:6px 0; padding:8px; width:200px }
-button { padding:8px 12px; margin:6px 0 }
-#users_list, #withdraws_list, #my_withdraws { background:#fff; border:1px solid #ddd; padding:8px; margin-top:8px }
-#rate_info { background:#fff; padding:8px; border:1px solid #ddd; margin-bottom:12px }
