@@ -1,1 +1,1 @@
-Drop these files in a GitHub Pages repo and set BACKEND_URL in app.js or host locally.
+AdminControlledToken.sol is an ERC-20 with pause and blacklist. Use Hardhat/Remix to compile and deploy.
