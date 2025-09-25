@@ -1,1 +1,1 @@
-# cripetingamali
+Drop these files in a GitHub Pages repo and set BACKEND_URL in app.js or host locally.
